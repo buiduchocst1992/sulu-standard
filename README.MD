@@ -1,0 +1,1 @@
+# SULU standard base with docker-compose
